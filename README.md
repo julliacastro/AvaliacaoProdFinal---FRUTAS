@@ -53,3 +53,9 @@ pip install -r requirements.txt
 Execute o notebook:
 
 Abra TrabalhoYOLO2 - Frutas.ipynb em um ambiente como Jupyter Notebook ou Google Colab.
+
+📁 Vídeos do Projeto
+
+🎥 Acesse os vídeos demonstrativos através do link abaixo:
+
+🔗 https://drive.google.com/drive/folders/17NPiLodnsyGCmYuaX3jTUlHYftfHdsq_?usp=sharing
