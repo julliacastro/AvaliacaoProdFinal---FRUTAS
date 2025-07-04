@@ -2,6 +2,10 @@
 
 Este projeto utiliza o modelo YOLO (You Only Look Once) para detecção e classificação de frutas em imagens, como parte de uma avaliação final de produção.
 
+🎥 Acesse o vídeo de apresentação do trabalho:
+
+🔗 https://youtu.be/EpAG6z6YB6g?si=z5ptE1FZjIAgUJvL
+
 📂 Estrutura do Projeto
 
 TrabalhoYOLO2 - Frutas.ipynb: Notebook com todo o código de treinamento, inferência e avaliação do modelo.
